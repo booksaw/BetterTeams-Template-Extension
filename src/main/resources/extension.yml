@@ -1,0 +1,29 @@
+# [Mandatory] The unique name of the extension
+name: MyFirstExtension
+
+# [Mandatory] The fully qualified path to your main class
+main: com.example.betterteams.MyFirstExtension
+
+# [Optional] The version of the extension (uses Maven filtering)
+version: ${project.version}
+
+# [Optional] The author of the extension
+author: ADeveloper
+
+# [Optional] A short description of what the extension does
+description: An example extension that demonstrates the BetterTeams API.
+
+# [Optional] The website for the extension (e.g., GitHub link)
+website: https://github.com/booksaw/BetterTeams
+
+# [Optional] List of other BetterTeams EXTENSIONS required to run
+depend: []
+
+# [Optional] List of other BetterTeams EXTENSIONS that are optional
+softdepend: []
+
+# [Optional] List of Bukkit PLUGINS required to run (e.g., Vault, WorldGuard)
+plugin-depend: []
+
+# [Optional] List of Bukkit PLUGINS that are optional
+plugin-softdepend: []
