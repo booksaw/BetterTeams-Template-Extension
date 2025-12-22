@@ -29,7 +29,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.booksaw.betterTeams</groupId>
+            <groupId>com.github.booksaw</groupId>
             <artifactId>BetterTeams</artifactId>
             <version>4.15.2</version>
             <scope>provided</scope>
